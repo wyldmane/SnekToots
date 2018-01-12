@@ -144,5 +144,6 @@ void Game::ComposeFrame()
 		}
 		
 		brd.DrawBorder();
+		//there's a snake in my boot!
 	}
 }
